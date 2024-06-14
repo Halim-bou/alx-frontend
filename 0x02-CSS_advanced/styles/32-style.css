@@ -516,6 +516,9 @@ a:active {
 
 .section-body {
   padding: var(--section-body-padding);
+}
+
+#contact .section-body {
   text-align: center;
 }
 
